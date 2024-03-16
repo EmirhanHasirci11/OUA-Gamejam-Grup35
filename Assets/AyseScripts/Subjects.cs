@@ -2,17 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Subjects : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+[CreateAssetMenu ( fileName = "NewSubject", menuName = "Create New Subject")]
+public class Subjects : ScriptableObject
+{
+   public string SubjectName;
+   public Color BorderColor;
+   public Color InnerColor;
+   public Sprite SubjectFace;
 }
