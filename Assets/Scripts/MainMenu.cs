@@ -7,10 +7,11 @@ using UnityEngine.UI;
 public class MainMenu : MonoBehaviour
 {
     // Start is called before the first frame update    
+    public GameObject gameName;
     public GameObject MenuBtn;
     public GameObject BackBtn;
     public GameObject CreditsCanvas;
-    public Image Dark;       
+    public Image Dark;
     public void Play()
     {
         StartCoroutine(Iterate());
@@ -28,12 +29,14 @@ public class MainMenu : MonoBehaviour
     }
     public void Credits()
     {
+        gameName.SetActive(false);
         MenuBtn.SetActive(false);
         BackBtn.SetActive(true);
         CreditsCanvas.SetActive(true);
     }
     public void Back()
     {           
+        gameName.SetActive(true);
         MenuBtn.SetActive(true);
         BackBtn.SetActive(false);
         CreditsCanvas.SetActive(false);              

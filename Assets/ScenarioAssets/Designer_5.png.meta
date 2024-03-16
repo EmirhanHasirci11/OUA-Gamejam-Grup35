@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: f77653987867d3940a7f792500290170
+guid: 7a7af6ef8a2f8b649a9f6babe358e8f3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2598184430482478853
-    second: menu_button_0
+      213: -2596393161321550446
+    second: Designer_5_0
+  - first:
+      213: 6946406585992636868
+    second: Designer_5_1
+  - first:
+      213: -2948340115282910672
+    second: Designer_5_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: menu_button_0
+      name: Designer_5_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 404
-        height: 79
+        width: 965
+        height: 958
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +133,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 507dbd749fa9e0420800000000000000
-      internalID: 2598184430482478853
+      spriteID: 29dec221d22c7fbd0800000000000000
+      internalID: -2596393161321550446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designer_5_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 264
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9668f7cf7966060800000000000000
+      internalID: 6946406585992636868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designer_5_2
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 142
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032278f39446517d0800000000000000
+      internalID: -2948340115282910672
       vertices: []
       indices: 
       edges: []
@@ -143,8 +191,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      menu_button_0: 2598184430482478853
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

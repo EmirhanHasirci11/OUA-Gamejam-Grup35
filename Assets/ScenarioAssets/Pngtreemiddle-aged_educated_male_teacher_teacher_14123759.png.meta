@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1078b02b25bd6a74d9af3b0bc7b33a2f
+guid: d065c18884811ef47aec1d8d1863c80a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1941108389008838622
-    second: pngtree-modern-double-color-futuristic-neon-background-image_351866_0
+      213: -7609816777558871567
+    second: Pngtreemiddle-aged_educated_male_teacher_teacher_14123759_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-modern-double-color-futuristic-neon-background-image_351866_0
+      name: Pngtreemiddle-aged_educated_male_teacher_teacher_14123759_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 861
-        height: 404
+        x: 140
+        y: 101
+        width: 749
+        height: 797
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: edf076d9bc330fa10800000000000000
-      internalID: 1941108389008838622
+      spriteID: 1f1bbc795ff746690800000000000000
+      internalID: -7609816777558871567
       vertices: []
       indices: 
       edges: []
@@ -143,8 +143,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      pngtree-modern-double-color-futuristic-neon-background-image_351866_0: 1941108389008838622
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
