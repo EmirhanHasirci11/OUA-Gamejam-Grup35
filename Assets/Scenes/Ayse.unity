@@ -315,10 +315,10 @@ MonoBehaviour:
   - Dialogue: "Wubba Lubba Dub Dub! Ho\u015F geldin, Morty! \u0130\u015Fte benim
       kahraman\u0131m burada! Bir g\xF6revimiz var Morty, haz\u0131r ol!"
     Speaker: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
-  SpeakerFaceDisplay: {fileID: 0}
-  DialogueBoxBorder: {fileID: 0}
-  DialogueBoxInner: {fileID: 0}
-  SkipIndicator: {fileID: 0}
+  SpeakerFaceDisplay: {fileID: 1635966791}
+  DialogueBoxBorder: {fileID: 189486084}
+  DialogueBoxInner: {fileID: 585933964}
+  SkipIndicator: {fileID: 1964741313}
   SpeakerNameDisplay: {fileID: 1432560022}
   DialogueDisplay: {fileID: 1518130851}
   TextSpeed: 25
@@ -502,7 +502,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -25}
+  m_AnchoredPosition: {x: -5.799988, y: -18.300003}
   m_SizeDelta: {x: 0, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1432560022
@@ -527,8 +527,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 34a4a0c89db9414489be1315c76bc9f1, type: 2}
+  m_sharedMaterial: {fileID: 4068044055246775935, guid: 34a4a0c89db9414489be1315c76bc9f1, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -552,7 +552,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 44.75
+  m_fontSize: 37.9
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -638,8 +638,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 90}
-  m_SizeDelta: {x: 0, y: 170}
+  m_AnchoredPosition: {x: 89.47998, y: 90}
+  m_SizeDelta: {x: -178.9599, y: 170}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1518130851
 MonoBehaviour:
@@ -663,8 +663,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 34a4a0c89db9414489be1315c76bc9f1, type: 2}
+  m_sharedMaterial: {fileID: 4068044055246775935, guid: 34a4a0c89db9414489be1315c76bc9f1, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -688,8 +688,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -726,7 +726,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 34.20996, y: 0, z: 0, w: 0}
+  m_margin: {x: 34.20996, y: -14.4322815, z: 61.577576, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -774,8 +774,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 126, y: 133}
-  m_SizeDelta: {x: 200, y: 200}
+  m_AnchoredPosition: {x: 126.26495, y: -137.97313}
+  m_SizeDelta: {x: 186.5299, y: 175.9463}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1635966791
 MonoBehaviour:
@@ -941,8 +941,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -75, y: 75}
-  m_SizeDelta: {x: 108, y: 108}
+  m_AnchoredPosition: {x: -34.3031, y: 41.803}
+  m_SizeDelta: {x: 57.006, y: 57.006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1964741313
 MonoBehaviour:

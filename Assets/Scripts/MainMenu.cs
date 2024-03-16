@@ -40,12 +40,7 @@ public class MainMenu : MonoBehaviour
         MenuBtn.SetActive(true);
         BackBtn.SetActive(false);
         CreditsCanvas.SetActive(false);              
-    }   
-    public void Options()
-    {
-        MenuBtn.SetActive(false);        
-        BackBtn.SetActive(true);
-    }
+    }       
     private YieldInstruction Instruction = new YieldInstruction();
     public IEnumerator FadeOut(Image image, float time)
     {//general fade out effect for images
