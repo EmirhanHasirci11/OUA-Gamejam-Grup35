@@ -11,21 +11,26 @@ public class DialoguBox : MonoBehaviour
     public Image SpeakerFaceDisplay;
     public Image DialogueBoxBorder;
     public Image DialogueBoxInner;
-    public Image SkipIndicator;
+    public Image SkipIndicator;    
     [Space]
     public TextMeshProUGUI SpeakerNameDisplay;
     public TextMeshProUGUI DialogueDisplay;
     [Space]
     public float TextSpeed;
-
-
     private bool CanContinue;
     private int DialogueIndex;
 
+    public void StartDialogue()
+    {
+        DialogueIndex = 0;
+        gameObject.SetActive(true);
+        SetStyle(DialoguSegments[0].Speaker);
+        PlayDialogue(DialoguSegments[0].Dialogue);
+        
+    }
     private void Start()
     {
-        SetStyle(DialoguSegments[0].Speaker);
-        StartCoroutine(PlayDialogue(DialoguSegments[0].Dialogue));
+        StartDialogue();
     }
 
     private void Update()
@@ -43,7 +48,7 @@ public class DialoguBox : MonoBehaviour
             }
 
             SetStyle(DialoguSegments[DialogueIndex].Speaker);
-            StartCoroutine(PlayDialogue(DialoguSegments[DialogueIndex].Dialogue));
+            PlayDialogue(DialoguSegments[DialogueIndex].Dialogue);
 
         }
     }
@@ -65,23 +70,14 @@ public class DialoguBox : MonoBehaviour
 
     }
 
-    IEnumerator PlayDialogue(string Dialogue)
+    public void PlayDialogue(string Dialogue)
     {
         CanContinue = false;
-        DialogueDisplay.SetText(string.Empty);
-        
-
-        for (int i = 0; i < Dialogue.Length; i++)  
-        {
-            DialogueDisplay.text += Dialogue[i];
-            yield return new WaitForSeconds(1f / TextSpeed);
-        }
-
+        DialogueDisplay.SetText(Dialogue);
+                
         CanContinue = true;
     }
 }
-
-
 
 [System.Serializable]
 public class DialoguSegment

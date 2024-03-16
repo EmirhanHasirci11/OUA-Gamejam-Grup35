@@ -6,12 +6,15 @@ using UnityEngine.UI;
 
 public class Scenarioıtem : MonoBehaviour
 {
+    [SerializeField] public DialoguSegment[] DialoguSegments;
     private CanvasRenderer _canvasRenderer;
-    [SerializeField] Image _image;
-
+    DialoguBox _dialoguBox;
+    public GameObject DialogCanvas;
     public void clickEvent()
     {
-        Debug.Log($"{gameObject.name} nesnesine tıklandı");
+       _dialoguBox= DialogCanvas.gameObject.GetComponent<DialoguBox>();
+        _dialoguBox.DialoguSegments=DialoguSegments;       
+        _dialoguBox.StartDialogue();
     }
 
 }
