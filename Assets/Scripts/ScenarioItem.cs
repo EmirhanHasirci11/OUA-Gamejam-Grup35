@@ -1,18 +1,17 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class NewBehaviourScript : MonoBehaviour
+public class Scenarioıtem : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private CanvasRenderer _canvasRenderer;
+    [SerializeField] Image _image;
+
+    public void clickEvent()
     {
-        
+        Debug.Log($"{gameObject.name} nesnesine tıklandı");
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
