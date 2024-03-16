@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      science-lab-game-background-with-tiles-and-ornaments-vector-parallax-seamless-tileable-dribbble_0: -6238119007730144674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

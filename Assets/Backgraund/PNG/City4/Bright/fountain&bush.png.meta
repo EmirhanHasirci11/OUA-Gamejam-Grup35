@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fountain&bush_0: -5886541107805700499
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

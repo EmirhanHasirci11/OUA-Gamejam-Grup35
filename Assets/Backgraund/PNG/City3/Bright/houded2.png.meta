@@ -204,7 +204,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      houded2_0: 3912331985256517854
+      houded2_1: -5686349206830187114
+      houded2_2: 3899601480138578975
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

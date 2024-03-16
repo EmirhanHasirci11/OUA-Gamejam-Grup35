@@ -276,7 +276,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      road&lamps_pale_0: 7740347526507900822
+      road&lamps_pale_1: 8567018205104737274
+      road&lamps_pale_2: 6142103356783344983
+      road&lamps_pale_3: -7968084768393293145
+      road&lamps_pale_4: 5820354949560780926
+      road&lamps_pale_5: 5798203173048907103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

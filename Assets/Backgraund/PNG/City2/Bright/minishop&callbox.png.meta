@@ -180,7 +180,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      minishop&callbox_0: 5959112045478204821
+      minishop&callbox_1: -2997442981427388258
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

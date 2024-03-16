@@ -252,7 +252,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crosswalk_0: -207043210030178969
+      crosswalk_1: -4034010414845100656
+      crosswalk_2: -7785930384902478232
+      crosswalk_3: -320226620637816080
+      crosswalk_4: -5871214322441918686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

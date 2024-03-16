@@ -180,7 +180,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wheels&hydrant_0: 2352244429531219562
+      wheels&hydrant_1: 2027423706925205147
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castle bridge_0: -6620306861566894426
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
