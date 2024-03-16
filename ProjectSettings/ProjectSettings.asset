@@ -640,7 +640,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: Oyun-ve-Uygulama-Akademisi-GameJam-2024-Grup-35
-  metroPackageVersion: 
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -648,7 +648,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Oyun-ve-Uygulama-Akademisi-GameJam-2024-Grup-35
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Oyun-ve-Uygulama-Akademisi-GameJam-2024-
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
