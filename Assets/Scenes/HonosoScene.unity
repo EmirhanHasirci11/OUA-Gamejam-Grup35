@@ -485,6 +485,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1586303410}
     m_Modifications:
+    - target: {fileID: 7288452684653947433, guid: 0691d868c80be614daebc84a90e8eb2d, type: 3}
+      propertyPath: DialogCanvas
+      value: 
+      objectReference: {fileID: 168441569}
+    - target: {fileID: 7288452684653947433, guid: 0691d868c80be614daebc84a90e8eb2d, type: 3}
+      propertyPath: DialoguSegments.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8876958247935989793, guid: 0691d868c80be614daebc84a90e8eb2d, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
