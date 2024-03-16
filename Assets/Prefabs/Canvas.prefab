@@ -326,10 +326,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd34ae2ba1e261d4e8ba8bd2fa2b5199, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DialoguSegments:
-  - Dialogue: "Wubba Lubba Dub Dub! Ho\u015F geldin, Morty! \u0130\u015Fte benim
-      kahraman\u0131m burada! Bir g\xF6revimiz var Morty, haz\u0131r ol!"
-    Speaker: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+  DialoguSegments: []
   SpeakerFaceDisplay: {fileID: 4796838226919422837}
   DialogueBoxBorder: {fileID: 4913798474909321033}
   DialogueBoxInner: {fileID: 6486553612073852106}
