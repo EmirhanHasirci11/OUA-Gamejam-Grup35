@@ -3,12 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Dutluk
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - dutluk
   - Water
   - UI
   - 
@@ -40,4 +41,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Dutluk
+    uniqueID: 2607513719
     locked: 0
