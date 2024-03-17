@@ -801,14 +801,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: ItemCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 1264619263737801854, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 82cd834198c0eec4a940cdf3c8965202, type: 3}
     - target: {fileID: 1593040787527651887, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Color.a
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2120029238444550099, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2120029238444550099, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ac86018d61a9b1646a6dab757f553b8d, type: 3}
+      objectReference: {fileID: 1208040086343421634, guid: 4a01de3159faae84e85631aa1c50692b, type: 3}
     - target: {fileID: 2728471504078054460, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -825,10 +833,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3032816275255375388, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+    - target: {fileID: 2806223657645800881, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: fe98f8728d56a2643b70bd8e0ce74b4c, type: 3}
+    - target: {fileID: 3032816275255375388, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3032816275255375388, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1208040086343421634, guid: 4a01de3159faae84e85631aa1c50692b, type: 3}
     - target: {fileID: 3940802819915920565, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -913,6 +929,10 @@ PrefabInstance:
       propertyPath: DialogCanvas
       value: 
       objectReference: {fileID: 1239180990}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: restartCondition
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.size
       value: 13
@@ -1051,14 +1071,26 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5355847954219349555, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+    - target: {fileID: 5094913199068151198, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 43eecc39812da594091b9ccad786b8d2, type: 3}
+    - target: {fileID: 5355847954219349555, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5355847954219349555, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1208040086343421634, guid: 4a01de3159faae84e85631aa1c50692b, type: 3}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialogCanvas
       value: 
       objectReference: {fileID: 1239180990}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: restartCondition
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.size
       value: 9
@@ -1146,6 +1178,10 @@ PrefabInstance:
       propertyPath: DialogCanvas
       value: 
       objectReference: {fileID: 1239180990}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: winCondition
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.size
       value: 25
