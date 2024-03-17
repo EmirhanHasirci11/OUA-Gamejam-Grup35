@@ -786,7 +786,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.size
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[0].Speaker
@@ -799,9 +799,13 @@ PrefabInstance:
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[2].Speaker
       value: 
-      objectReference: {fileID: 11400000, guid: fe3d480884d94f047b56b25007d22f86, type: 2}
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[3].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[4].Speaker
       value: 
       objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
@@ -816,12 +820,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[2].Dialogue
-      value: "\u0130yi se\xE7im yapt\u0131n\u0131z.  Bu araziler gelecekte size b\xFCy\xFCk
-        kazan\xE7lar sa\u011Flayacak.  \u0130yi g\xFCnlerde kullan\u0131n."
+      value: "Sen ne yapt\u0131\u011F\u0131n\u0131 san\u0131yorsun Morty! ..."
       objectReference: {fileID: 0}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[3].Dialogue
       value: "Sen ne yapt\u0131\u011F\u0131n\u0131 san\u0131yorsun Morty! ..."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[4].Dialogue
+      value: "Geri d\xF6n ve farkl\u0131 bir \xE7\xF6z\xFCm bul."
       objectReference: {fileID: 0}
     - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialogCanvas
@@ -833,7 +840,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.size
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[0].Speaker
@@ -856,6 +863,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fe3d480884d94f047b56b25007d22f86, type: 2}
     - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[5].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[0].Dialogue
       value: "Merhabalar, emlak\xE7\u0131. Bu arazi ileride de\u011Ferlenir mi?"
       objectReference: {fileID: 0}
@@ -877,6 +888,10 @@ PrefabInstance:
       propertyPath: DialoguSegments.Array.data[4].Dialogue
       value: "(kahraman araziyi tamamen zehirle kaplar ve emlak\xE7\u0131 araziyi 
         hi\xE7kimseye satamaz.)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[5].Dialogue
+      value: "Bunu da sat\u0131n alamad\u0131k. Ba\u015Fka bir senaryoyu dene."
       objectReference: {fileID: 0}
     - target: {fileID: 8279140494102754780, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_AnchorMax.y

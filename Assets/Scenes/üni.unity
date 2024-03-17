@@ -780,7 +780,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.size
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[0].Speaker
@@ -818,6 +818,10 @@ PrefabInstance:
       propertyPath: DialoguSegments.Array.data[8].Speaker
       value: 
       objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[9].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[0].Dialogue
       value: "Kahraman profes\xF6re yard\u0131m etmek i\xE7in h\u0131z itemini se\xE7er.
@@ -867,6 +871,10 @@ PrefabInstance:
       propertyPath: DialoguSegments.Array.data[8].Dialogue
       value: "hay\u0131\u0131\u0131\u0131\u0131r hay\u0131\u0131\u0131\u0131\u0131\u0131r
         \xF6yle de\u011Fil yanl\u0131\u015F anlad\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[9].Dialogue
+      value: Bir sonraki senaryoya gidelim.
       objectReference: {fileID: 0}
     - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialogCanvas
