@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Summer6_0: -4334048872438988983
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

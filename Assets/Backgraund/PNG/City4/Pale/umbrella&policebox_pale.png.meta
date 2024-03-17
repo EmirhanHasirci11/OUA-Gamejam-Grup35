@@ -180,7 +180,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      umbrella&policebox_pale_0: -3333111805637685700
+      umbrella&policebox_pale_1: -2185479652810111668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

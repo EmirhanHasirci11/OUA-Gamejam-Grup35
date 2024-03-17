@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      forest bridge_0: -1015167863708021816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
