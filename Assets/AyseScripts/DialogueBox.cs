@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class DialoguBox : MonoBehaviour
 {
     public DialoguSegment[] DialoguSegments;
+    public bool isWinCondition = false;
+    public bool isRestartCondition=false;
     [Space]
     public Image SpeakerFaceDisplay;
     public Image DialogueBoxBorder;
@@ -22,6 +25,7 @@ public class DialoguBox : MonoBehaviour
 
     public void StartDialogue()
     {
+        
         DialogueIndex = 0;
         gameObject.SetActive(true);
         SetStyle(DialoguSegments[0].Speaker);
@@ -30,6 +34,8 @@ public class DialoguBox : MonoBehaviour
     }
     private void Start()
     {
+        isWinCondition = false;
+        isRestartCondition = false;
         StartDialogue();
     }
 
@@ -44,6 +50,10 @@ public class DialoguBox : MonoBehaviour
             {
 
                 gameObject.SetActive(false);
+                if (isWinCondition)
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+                if (isRestartCondition)
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
                 return;
             }
 

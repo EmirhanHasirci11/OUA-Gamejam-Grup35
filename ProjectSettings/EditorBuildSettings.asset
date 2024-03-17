@@ -8,4 +8,38 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HonosoScene.unity
+    guid: 1e95ec2f04e1c704da8decdfab08d297
+  - enabled: 1
+    path: Assets/Scenes/AtayaMiniGunVermek.unity
+    guid: b488c3b7a5cd952438d272beb6d96cbc
+  - enabled: 1
+    path: Assets/Scenes/Ayse.unity
+    guid: bcb38188f52462f458cc5b83524fc7da
+  - enabled: 1
+    path: Assets/Scenes/byzScene.unity
+    guid: beb3ca329bce76149a53653e7304bd68
+  - enabled: 1
+    path: Assets/Scenes/dutluk.unity
+    guid: a45957ccd42ab1b449ce1f856d29e6a6
+  - enabled: 1
+    path: Assets/Scenes/kedi.unity
+    guid: 653b2fe0084d2ea479e4c6d73f19aea2
+  - enabled: 1
+    path: Assets/Scenes/lab.unity
+    guid: 98c1919778414104fa7c9388abd510d0
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 32ca5edd55a65bd4bb7d6f136766d8c7
+  - enabled: 1
+    path: Assets/Scenes/NEWSCENE.unity
+    guid: 5e084e37b5192414c936524b977f3627
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: 84517fe60c6a5a247bbbaecc0a4fc8c6
+  - enabled: 1
+    path: "Assets/Scenes/\xFCni.unity"
+    guid: 976c54a6891737b4ebc1d956574c8e0e
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
