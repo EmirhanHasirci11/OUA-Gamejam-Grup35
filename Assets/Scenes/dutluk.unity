@@ -488,6 +488,10 @@ PrefabInstance:
       propertyPath: m_Color.a
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2120029238444550099, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 3cb8c348e18b17542ba13836f9cedce0, type: 3}
     - target: {fileID: 2728471504078054460, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -503,6 +507,14 @@ PrefabInstance:
     - target: {fileID: 2728471504078054460, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3032816275255375388, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9f7d725ca364960429d72c0509132bb1, type: 3}
+    - target: {fileID: 3497844966840283491, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 3940802819915920565, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Pivot.x
@@ -703,6 +715,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5355847954219349555, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c446ff76d4289fe4585d790b51e57ae5, type: 3}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialogCanvas
       value: 
