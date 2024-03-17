@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7dffe9d32e81ac840aa60f81703a3dc2
+guid: a3f475e13818f714687bdc71e6523896
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -370,32 +370,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2436,103 +2410,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Male3_0: 1896708877871480534
-      Male3_1: -3178779160194919490
-      Male3_10: 2887842312010984629
-      Male3_11: 7626133875814014961
-      Male3_12: -3661343105196429900
-      Male3_13: 5330208675728548029
-      Male3_14: -1191996692475811915
-      Male3_15: -1267364250498312190
-      Male3_16: 698633009963340055
-      Male3_17: -187207068964470194
-      Male3_18: -891844759237377894
-      Male3_19: -568272697974320048
-      Male3_2: -4154700704816071184
-      Male3_20: -7035613850843752978
-      Male3_21: 3123337004060282454
-      Male3_22: 369294689894126844
-      Male3_23: 3509706476166577192
-      Male3_24: -7472838739422471789
-      Male3_25: 8779673614613058761
-      Male3_26: -716909741995333184
-      Male3_27: 5730291471810996412
-      Male3_28: -8046729084172099522
-      Male3_29: 443692983278240218
-      Male3_3: 2200771880952277770
-      Male3_30: 1084497245151518717
-      Male3_31: 3217112251765523490
-      Male3_32: 6130597128898885655
-      Male3_33: -6347933334577093044
-      Male3_34: -5572982626238062258
-      Male3_35: -528923786347220348
-      Male3_36: 918526734549158470
-      Male3_37: -4503228297973439946
-      Male3_38: -3857169224475195890
-      Male3_39: -3941534362105802926
-      Male3_4: 3970889072075125927
-      Male3_40: 421649918957968700
-      Male3_41: 4239280508770667831
-      Male3_42: 4848020260598031541
-      Male3_43: -7253178045804172906
-      Male3_44: -4696732509689420305
-      Male3_45: -1270391856411815108
-      Male3_46: 299009635949431643
-      Male3_47: -8644085785939600875
-      Male3_48: -676686753979661439
-      Male3_49: 6235396796395502653
-      Male3_5: 6514318494622580689
-      Male3_50: -2402784365249974621
-      Male3_51: -2296230585139192598
-      Male3_52: 6636094036899351940
-      Male3_53: -9052462772828421176
-      Male3_54: -4834191545780291395
-      Male3_55: 4718287530318147094
-      Male3_56: -3827066802863639638
-      Male3_57: -2887185384596672309
-      Male3_58: 3467472655778454953
-      Male3_59: -985714212584088775
-      Male3_6: 9035576062807453439
-      Male3_60: -3650186774255376953
-      Male3_61: -741795745019258883
-      Male3_62: -2272910084572424793
-      Male3_63: 275282575954913563
-      Male3_64: 2569511960019315592
-      Male3_65: -5749665195406994571
-      Male3_66: 3766648044375849076
-      Male3_67: -4136514733839530051
-      Male3_68: -4324064157573136249
-      Male3_69: -3310678506869194910
-      Male3_7: 903555360220960151
-      Male3_70: 9051563017900737800
-      Male3_71: -4253629684624649854
-      Male3_72: -6730549033531829958
-      Male3_73: -6445173997763139247
-      Male3_74: 4533406388626583321
-      Male3_75: -6132571864726149801
-      Male3_76: -912589541033050316
-      Male3_77: -1482769641348676866
-      Male3_78: -2346252392823567796
-      Male3_79: 5903769642285583057
-      Male3_8: -4842476229238521750
-      Male3_80: -5795717412078372941
-      Male3_81: -4250375987827614263
-      Male3_82: -7138200179886471756
-      Male3_83: 1036534956976942757
-      Male3_84: -6585576612590164667
-      Male3_85: -7931493739616850253
-      Male3_86: -1436443016483707299
-      Male3_87: -3939910364575176218
-      Male3_88: -8345848484713591293
-      Male3_89: 6158561746437044643
-      Male3_9: -4995412005127720080
-      Male3_90: 8135818465408501460
-      Male3_91: -8073342693826903422
-      Male3_92: -4843216916194771507
-      Male3_93: -1655409405224393942
-      Male3_94: -6212811617862354090
-      Male3_95: -8104030536873245365
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

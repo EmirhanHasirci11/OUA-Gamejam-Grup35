@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a47cb7015b26c5941b23d275b0a392a0
+guid: 392ad96d0e4c8ad4aa6be0bf545bf6d8
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -370,32 +370,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2436,103 +2410,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Male4_0: 1937715237121370876
-      Male4_1: 4882792753485054788
-      Male4_10: 8674564881329781005
-      Male4_11: 3031204316125989095
-      Male4_12: -1626731218051262824
-      Male4_13: 1762414380184659407
-      Male4_14: -1917867114567926938
-      Male4_15: -274674688748158976
-      Male4_16: 5645116335892094391
-      Male4_17: -5412360785517475061
-      Male4_18: 6406834663814201194
-      Male4_19: 3053404702465226297
-      Male4_2: 195379759280473179
-      Male4_20: -5407012942904880016
-      Male4_21: 6366570601096994295
-      Male4_22: -5819582231232406050
-      Male4_23: 269734986589777527
-      Male4_24: 2967879500316939536
-      Male4_25: -7124433658269808471
-      Male4_26: 5230194882776535893
-      Male4_27: -1093304535905264429
-      Male4_28: -4295175455151537283
-      Male4_29: 1844162806821199486
-      Male4_3: 7680589771436027372
-      Male4_30: -262910941424025362
-      Male4_31: 5515301004905368835
-      Male4_32: 216582053338043508
-      Male4_33: 656846819476140979
-      Male4_34: -3399813587714895559
-      Male4_35: -2787742516779860512
-      Male4_36: 6406268015501285516
-      Male4_37: -2132754868339971891
-      Male4_38: -7638421908245181552
-      Male4_39: 2541050639303720172
-      Male4_4: -166148631105429587
-      Male4_40: -3135977929543527746
-      Male4_41: -3715267917408543923
-      Male4_42: -2291529147026074674
-      Male4_43: 5739812610242290648
-      Male4_44: 4608120558127478233
-      Male4_45: 7361605288361779380
-      Male4_46: -9073105826199930633
-      Male4_47: -1742803455424944293
-      Male4_48: 6285657392655439803
-      Male4_49: -6708540983749404230
-      Male4_5: -6513920206663524094
-      Male4_50: -6089593200462820202
-      Male4_51: -7042408517567630866
-      Male4_52: -7603420159935208020
-      Male4_53: -5121118093374153404
-      Male4_54: -912512754875773502
-      Male4_55: -3513696649534943351
-      Male4_56: 5158599224544815305
-      Male4_57: -3772746821408361496
-      Male4_58: -892308292960767088
-      Male4_59: 7747291485253787437
-      Male4_6: 2465948097256818278
-      Male4_60: -8244831803642738191
-      Male4_61: -8729472249914368348
-      Male4_62: 3823999833763813583
-      Male4_63: 906337606087029022
-      Male4_64: -3237457013368340601
-      Male4_65: -4661635299892188768
-      Male4_66: -1773959970136101820
-      Male4_67: -7781524276596496223
-      Male4_68: -4039256692609540109
-      Male4_69: -2384618862568133990
-      Male4_7: -3823544785353053165
-      Male4_70: 7629382345252671771
-      Male4_71: -163295859626516042
-      Male4_72: -522071583593879146
-      Male4_73: 8329442149243584602
-      Male4_74: 1143911442771570869
-      Male4_75: -2915414882872986550
-      Male4_76: -1971590360735014954
-      Male4_77: -4955855399129785560
-      Male4_78: 6012636019336810094
-      Male4_79: -7052188234558568265
-      Male4_8: -1563494774233310650
-      Male4_80: 3399466229948507545
-      Male4_81: -8683559125218077074
-      Male4_82: 322446011706806947
-      Male4_83: 5204286466199426606
-      Male4_84: -5055764620865984595
-      Male4_85: 2020934133523006322
-      Male4_86: 6328833201748832734
-      Male4_87: 813105977454555080
-      Male4_88: -7072089958880241371
-      Male4_89: -3714842551949295974
-      Male4_9: 5288515348359990412
-      Male4_90: -5337434033904148418
-      Male4_91: 4088139168460600273
-      Male4_92: -2557539903264593623
-      Male4_93: -421902871107182622
-      Male4_94: 5405776846659112490
-      Male4_95: 6080228841411275136
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

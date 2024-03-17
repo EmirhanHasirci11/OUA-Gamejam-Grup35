@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9a3610b799cdfc64dbb4170b12f4ef92
+guid: 247182bcc9ba1de45803f2d0d180bcdc
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -370,32 +370,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2436,103 +2410,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Female2_0: 8547691330552646725
-      Female2_1: -1007178838151064300
-      Female2_10: 3524337503134659395
-      Female2_11: 8097256314703792169
-      Female2_12: -8059417627637635102
-      Female2_13: 9159223262914355113
-      Female2_14: -7963476608615422482
-      Female2_15: -1354112558831858900
-      Female2_16: -3927054299232152680
-      Female2_17: 4993587099375481104
-      Female2_18: -6241660267438131773
-      Female2_19: -6071291101245692782
-      Female2_2: -8966775435304727048
-      Female2_20: 7408079242582643122
-      Female2_21: 3634594212040964410
-      Female2_22: 3306279818760220696
-      Female2_23: -6958628276800573098
-      Female2_24: -2529130100012959613
-      Female2_25: 8021603436098772352
-      Female2_26: 3474779538562911269
-      Female2_27: -8686033193150183374
-      Female2_28: 1256580734482535365
-      Female2_29: 1842987141775517106
-      Female2_3: -1184497889926022168
-      Female2_30: -8740799736500290470
-      Female2_31: -4735922842489164322
-      Female2_32: -8546380792000556003
-      Female2_33: -7706399531178320383
-      Female2_34: -3933762742837834140
-      Female2_35: -39834260758343510
-      Female2_36: 2532578346456407691
-      Female2_37: -3346879151552562429
-      Female2_38: -8468740963745366669
-      Female2_39: 1506532844255531384
-      Female2_4: 7808384121376451491
-      Female2_40: -1265100583547261391
-      Female2_41: 2164714415741912300
-      Female2_42: 9163595306988047708
-      Female2_43: 2688749721378965287
-      Female2_44: 2728899171104624401
-      Female2_45: 7455428458420047050
-      Female2_46: 229985326919434574
-      Female2_47: -945416742182373087
-      Female2_48: 8595281518851897809
-      Female2_49: -984303347484275596
-      Female2_5: -2261583247211994317
-      Female2_50: -2231041486368318074
-      Female2_51: 8904685852971184681
-      Female2_52: 2143732525678841862
-      Female2_53: 4034439231048869562
-      Female2_54: -3719755370433284708
-      Female2_55: 770797823841021101
-      Female2_56: -1285563977341163907
-      Female2_57: -7874108775786196782
-      Female2_58: 8299434924125513100
-      Female2_59: 6608120330816423260
-      Female2_6: -2627203113209909185
-      Female2_60: 328065910458339340
-      Female2_61: -5492192690843161764
-      Female2_62: 7990536335540254335
-      Female2_63: 3612716600730211924
-      Female2_64: 5667450362545104574
-      Female2_65: -316220809828748007
-      Female2_66: 812994888539333914
-      Female2_67: -529238808287638520
-      Female2_68: 6867304931102906505
-      Female2_69: 6763616250557427517
-      Female2_7: 6657190979599703306
-      Female2_70: 6723546069974848434
-      Female2_71: -377468050852472805
-      Female2_72: -5251922016697317669
-      Female2_73: -4467716556007271441
-      Female2_74: -7996473701461512104
-      Female2_75: 1354579332320459575
-      Female2_76: -9159264240134103871
-      Female2_77: -3372206681510534683
-      Female2_78: -1256135324139901924
-      Female2_79: -886829257920691863
-      Female2_8: -3826429871513615880
-      Female2_80: -896882511679379210
-      Female2_81: -3520723675364395971
-      Female2_82: -3527759979923074438
-      Female2_83: -1310696399228361251
-      Female2_84: -5915615612589200441
-      Female2_85: -4924816067974551576
-      Female2_86: 7401192594132271984
-      Female2_87: 5608903853358434151
-      Female2_88: -2505279818089998097
-      Female2_89: -7779070089590325934
-      Female2_9: -7043068903464040987
-      Female2_90: 5446583195764651783
-      Female2_91: -6920647327765291242
-      Female2_92: -5946534642316988580
-      Female2_93: -3637589484768092766
-      Female2_94: -2292381437402263389
-      Female2_95: 3070697446628749976
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

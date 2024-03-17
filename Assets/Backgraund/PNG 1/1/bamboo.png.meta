@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 336a5d848cdd4e74ebdd439e38256bd6
+guid: 3cc89b6b9405d0c4d85d597fe3a8afb7
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -106,32 +106,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -324,15 +298,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      bamboo_0: 1173672819109715352
-      bamboo_1: -7688164583921627626
-      bamboo_2: 3541785599481088897
-      bamboo_3: -6503109056689139563
-      bamboo_4: 4254563391739438322
-      bamboo_5: -731750270611153000
-      bamboo_6: 7630392008004196498
-      bamboo_7: -8894088145834164367
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
