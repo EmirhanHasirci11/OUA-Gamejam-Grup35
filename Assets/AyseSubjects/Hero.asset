@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90b3a85168c578b4bb9ee3efe1b96c01, type: 3}
   m_Name: Hero
   m_EditorClassIdentifier: 
-  SubjectName: 
-  BorderColor: {r: 0, g: 0, b: 0, a: 0}
-  InnerColor: {r: 0, g: 0, b: 0, a: 0}
-  SubjectFace: {fileID: 0}
+  SubjectName: Hero
+  BorderColor: {r: 0.3764706, g: 0.3529412, b: 0.3529412, a: 1}
+  InnerColor: {r: 0.36862746, g: 0.29411766, b: 0.29411766, a: 1}
+  SubjectFace: {fileID: 2326319382162329187, guid: b77342e1883ccd94983f6bd49ddd47a5, type: 3}
