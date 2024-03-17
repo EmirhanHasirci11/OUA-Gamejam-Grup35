@@ -15,4 +15,4 @@ MonoBehaviour:
   SubjectName: Hero
   BorderColor: {r: 0.3764706, g: 0.3529412, b: 0.3529412, a: 1}
   InnerColor: {r: 0.36862746, g: 0.29411766, b: 0.29411766, a: 1}
-  SubjectFace: {fileID: 2326319382162329187, guid: b77342e1883ccd94983f6bd49ddd47a5, type: 3}
+  SubjectFace: {fileID: 6983202077367773121, guid: 22fdfb179198cf54aa0598ef9f8d08d1, type: 3}

@@ -15,4 +15,4 @@ MonoBehaviour:
   SubjectName: Professor
   BorderColor: {r: 0.3773585, g: 0.3542186, b: 0.3542186, a: 1}
   InnerColor: {r: 0.3679245, g: 0.2932983, b: 0.2932983, a: 1}
-  SubjectFace: {fileID: 2326319382162329187, guid: b77342e1883ccd94983f6bd49ddd47a5, type: 3}
+  SubjectFace: {fileID: 3572444614293187349, guid: 1a21dc45b160a5841b92555ce4179540, type: 3}
