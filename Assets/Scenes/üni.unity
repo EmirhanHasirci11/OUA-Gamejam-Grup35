@@ -475,14 +475,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: ItemCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 1264619263737801854, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c8989e3f50f231947bad3f1e177394e5, type: 3}
     - target: {fileID: 1593040787527651887, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Color.a
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2120029238444550099, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2120029238444550099, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: c8989e3f50f231947bad3f1e177394e5, type: 3}
+      objectReference: {fileID: 1208040086343421634, guid: 4a01de3159faae84e85631aa1c50692b, type: 3}
     - target: {fileID: 2728471504078054460, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -499,10 +507,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3032816275255375388, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+    - target: {fileID: 2806223657645800881, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 5e45f285761b5c74fbfc5ca74aa3cb79, type: 3}
+    - target: {fileID: 3032816275255375388, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3032816275255375388, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1208040086343421634, guid: 4a01de3159faae84e85631aa1c50692b, type: 3}
     - target: {fileID: 3497844966840283491, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 180
@@ -591,6 +607,10 @@ PrefabInstance:
       propertyPath: DialogCanvas
       value: 
       objectReference: {fileID: 213534396}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: winCondition
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.size
       value: 13
@@ -715,6 +735,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5014770706818835475, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 5014770706818835475, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 5014770706818835475, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -722,14 +750,26 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5355847954219349555, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+    - target: {fileID: 5094913199068151198, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 0b5d755eb91897d4eb38385c4521bde0, type: 3}
+    - target: {fileID: 5355847954219349555, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5355847954219349555, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1208040086343421634, guid: 4a01de3159faae84e85631aa1c50692b, type: 3}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialogCanvas
       value: 
       objectReference: {fileID: 213534396}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: restartCondition
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.size
       value: 9
@@ -824,6 +864,10 @@ PrefabInstance:
       propertyPath: DialogCanvas
       value: 
       objectReference: {fileID: 213534396}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: restartCondition
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.size
       value: 6
