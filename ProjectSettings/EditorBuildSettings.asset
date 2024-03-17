@@ -9,12 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 32ca5edd55a65bd4bb7d6f136766d8c7
   - enabled: 1
-    path: Assets/Scenes/lab.unity
-    guid: 98c1919778414104fa7c9388abd510d0
-  - enabled: 1
-    path: Assets/Scenes/dutluk.unity
-    guid: a45957ccd42ab1b449ce1f856d29e6a6
-  - enabled: 1
     path: Assets/Scenes/AtayaMiniGunVermek.unity
     guid: b488c3b7a5cd952438d272beb6d96cbc
   - enabled: 1
@@ -23,5 +17,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/kedi.unity
     guid: 653b2fe0084d2ea479e4c6d73f19aea2
+  - enabled: 1
+    path: Assets/Scenes/dutluk.unity
+    guid: a45957ccd42ab1b449ce1f856d29e6a6
+  - enabled: 1
+    path: Assets/Scenes/son.unity
+    guid: 704a1816396c0354a830f6674ef61e47
+  - enabled: 1
+    path: Assets/Scenes/lab.unity
+    guid: 98c1919778414104fa7c9388abd510d0
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
