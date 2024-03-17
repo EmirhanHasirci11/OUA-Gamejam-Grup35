@@ -480,8 +480,7 @@ PrefabInstance:
     - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
       propertyPath: DialoguSegments.Array.data[0].Dialogue
       value: "Morty hi\xE7 d\xFC\u015F\xFCnd\xFCn m\xFC ge\xE7mi\u015Fte Fatih Sultan
-        Mehmet'e buradan silahlar ve M\u0130N\u0130 G\xDCN g\xF6ndersek nas\u0131l
-        olur?"
+        Mehmet'e buradan silahlar ve M\u0130N\u0130 GUN g\xF6ndersek nas\u0131l olur?"
       objectReference: {fileID: 0}
     - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
       propertyPath: DialoguSegments.Array.data[10].Speaker
@@ -610,7 +609,7 @@ SpriteRenderer:
   m_SortingLayerID: -1687453577
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4319946011578006898, guid: 163362a27c7c8684a815eaa5139ebe93, type: 3}
+  m_Sprite: {fileID: 4319946011578006898, guid: 2f2051bc62e762f428ce1c2fa0872210, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -618,7 +617,7 @@ SpriteRenderer:
   m_Size: {x: 0.17, y: 0.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1303194304
@@ -764,7 +763,7 @@ SpriteRenderer:
   m_SortingLayerID: -1687453577
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 3031204316125989095, guid: a47cb7015b26c5941b23d275b0a392a0, type: 3}
+  m_Sprite: {fileID: 3031204316125989095, guid: 392ad96d0e4c8ad4aa6be0bf545bf6d8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -772,7 +771,7 @@ SpriteRenderer:
   m_Size: {x: 0.17, y: 0.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1597652436
@@ -1434,7 +1433,7 @@ SpriteRenderer:
   m_SortingLayerID: -1687453577
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6572399730939076242, guid: f75117618de951f4fb71350456216de8, type: 3}
+  m_Sprite: {fileID: 6572399730939076242, guid: 3fa03249ab3216c4d9cb55b7d78f7380, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1442,7 +1441,7 @@ SpriteRenderer:
   m_Size: {x: 0.19, y: 0.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1993915142
