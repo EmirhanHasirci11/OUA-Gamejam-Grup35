@@ -179,7 +179,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -5748633430273818994, guid: 1f45ef90a75d29540a6f078e18dfb6db, type: 3}
+  m_Sprite: {fileID: -5748633430273818994, guid: ca99d51efc5bf1f4485c8c7b570ec8f0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -618,7 +618,7 @@ SpriteRenderer:
   m_Size: {x: 0.17, y: 0.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1303194304
@@ -772,7 +772,7 @@ SpriteRenderer:
   m_Size: {x: 0.17, y: 0.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1597652436
@@ -804,6 +804,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1593040787527651887, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728471504078054460, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728471504078054460, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728471504078054460, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728471504078054460, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3940802819915920565, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
@@ -1011,6 +1027,22 @@ PrefabInstance:
     - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialoguSegments.Array.data[12].Dialogue
       value: Peki
+      objectReference: {fileID: 0}
+    - target: {fileID: 5014770706818835475, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5014770706818835475, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5014770706818835475, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5014770706818835475, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialogCanvas
@@ -1321,6 +1353,22 @@ PrefabInstance:
       propertyPath: DialoguSegments.Array.data[24].Dialogue
       value: "Yerli tv de tarih dizisi izlemek bazen \xE7ok i\u015Fe yar\u0131yormu\u015F:)."
       objectReference: {fileID: 0}
+    - target: {fileID: 8279140494102754780, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8279140494102754780, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8279140494102754780, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8279140494102754780, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1394,7 +1442,7 @@ SpriteRenderer:
   m_Size: {x: 0.19, y: 0.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1993915142
