@@ -297,6 +297,50 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
+      propertyPath: DialoguSegments.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
+      propertyPath: DialoguSegments.Array.data[0].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
+      propertyPath: DialoguSegments.Array.data[1].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
+      propertyPath: DialoguSegments.Array.data[2].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+    - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
+      propertyPath: DialoguSegments.Array.data[3].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
+      propertyPath: DialoguSegments.Array.data[0].Dialogue
+      value: "[Karakterimiz, profes\xF6r\xFCn ge\xE7mi\u015Fini de\u011Fi\u015Ftirmek
+        i\xE7in \xFCniversite y\u0131llar\u0131na \u0131\u015F\u0131nlan\u0131r.
+        Profes\xF6r, sevdi\u011Fi k\u0131za a\xE7\u0131lmak i\xE7in heyecanla haz\u0131rl\u0131klar\u0131n\u0131
+        yaparken, di\u015Fisine kur yapan bir arizona kertenkelesi gibi profes\xF6r\xFCn
+        sevdi\u011Fi k\u0131za yakla\u015Fan ba\u015Fka bir erkek otaya \xE7\u0131kar.
+        Kahraman\u0131m\u0131z h\u0131zla profes\xF6r\xFCn yan\u0131na gider.]"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
+      propertyPath: DialoguSegments.Array.data[1].Dialogue
+      value: "Oh jeez, profes\xF6r! Seni burada bu kadar \xFCzg\xFCn g\xF6rmek \xE7ok
+        k\xF6t\xFC. Ama endi\u015Felenme, buraday\u0131m ve sana yard\u0131m etmek
+        i\xE7in geldim!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
+      propertyPath: DialoguSegments.Array.data[2].Dialogue
+      value: "Morty... Hay\u0131r, asla Rick, ben... Ona hislerimi a\xE7amam, Morty!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4470900811682703287, guid: f854bff83317e8e4d864bfcb8372f321, type: 3}
+      propertyPath: DialoguSegments.Array.data[3].Dialogue
+      value: "Sana dedim ya, profes\xF6r, bu i\u015F tamamen benim kontrol\xFCm alt\u0131nda!
+        Sen sadece bana g\xFCven, Rick!"
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -487,6 +531,121 @@ PrefabInstance:
       propertyPath: DialogCanvas
       value: 
       objectReference: {fileID: 213534396}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[0].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[1].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[2].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[3].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[4].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[5].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[6].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 01e0ac1e989dada45a2796afeb13cd20, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[7].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[8].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[9].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 01e0ac1e989dada45a2796afeb13cd20, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[0].Dialogue
+      value: "Kahraman\u0131m\u0131z \u015Fans\u0131 itemini se\xE7er. \u015Eans
+        itemini se\xE7mesi onu kurtar\u0131r. K\u0131z profes\xF6r\xFC se\xE7er.
+        Profes\xF6r kahraman\u0131m\u0131za te\u015Fekk\xFCr eder. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[10].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[11].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[12].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[1].Dialogue
+      value: "iyimisiniz han\u0131mefendi kusura bakmay\u0131n benim sakarl\u0131\u011F\u0131m
+        gelin size yard\u0131m edim"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[2].Dialogue
+      value: "(tam o anda profes\xF6r\xFCm\xFCz de k\u0131z\u0131n yan\u0131na gider)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[3].Dialogue
+      value: "han\u0131mefendi bir sorunmu var isterseniz size yard\u0131mc\u0131
+        olay\u0131m der "
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[4].Dialogue
+      value: "(tam o anda di\u011Fer kahraman)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[5].Dialogue
+      value: "ben zaten burday\u0131m ya g\xF6rm\xFCyormusun yard\u0131m ediyorum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[6].Dialogue
+      value: "hay\u0131r sizin yard\u0131m\u0131n\u0131za ihtiyac\u0131m yok beyefendi
+        bana yard\u0131m edebilir. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[7].Dialogue
+      value: "(profes\xF6r k\u0131za yard\u0131m eder)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[8].Dialogue
+      value: "isterseniz \u015Furda \xE7ok iyi bir kahve d\xFCkkan\u0131 var birlikte
+        kahve i\xE7mek istermisiniz hemde dinlenmi\u015F olursunuz. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[9].Dialogue
+      value: "tabi evet neden olmas\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[10].Dialogue
+      value: "(profes\xF6r ve k\u0131z birlikte kahve i\xE7meye d\xFCkkana giderler)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[11].Dialogue
+      value: "Ahhhhh ne g\xFCzel \xE7ift oldular be."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4308248328046482996, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[12].Dialogue
+      value: "afferim rick \xE7ok iyi i\u015F \xE7\u0131kard\u0131n seninle gurur
+        duyuyorum ama heme geri gelmen laz\u0131m ba\u015Fka g\xF6revlerimiz var."
+      objectReference: {fileID: 0}
     - target: {fileID: 5014770706818835475, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -507,10 +666,163 @@ PrefabInstance:
       propertyPath: DialogCanvas
       value: 
       objectReference: {fileID: 213534396}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[0].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[1].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[2].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 01e0ac1e989dada45a2796afeb13cd20, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[3].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[4].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[5].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 01e0ac1e989dada45a2796afeb13cd20, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[6].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[7].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[8].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[0].Dialogue
+      value: "Kahraman profes\xF6re yard\u0131m etmek i\xE7in h\u0131z itemini se\xE7er.
+        Ancak h\u0131zl\u0131 olmas\u0131 onu kurtarmaz k\u0131z yine de yak\u0131\u015F\u0131kl\u0131
+        oldu\u011Fu i\xE7in di\u011Fer erke\u011Fi se\xE7er ve kahraman\u0131m\u0131z
+        ba\u015Far\u0131s\u0131z olur. Profes\xF6r kahraman\u0131m\u0131za k\u0131zar."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[1].Dialogue
+      value: "(profes\xF6r h\u0131z\u0131 kullanarak k\u0131za erkekten \xF6nce ula\u015F\u0131r
+        ve k\u0131za a\xE7\u0131lmak ister fakat \xE7ok h\u0131zl\u0131 oldu\u011Fu
+        i\xE7in k\u0131za \xE7arpar ve k\u0131z\u0131n kitaplar\u0131n\u0131 d\xFC\u015F\xFCr\xFCr.
+        k\u0131z ise profes\xF6r \xE7irkin oldu\u011Fundan dolay\u0131 profes\xF6re
+        hakaret eder.)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[2].Dialogue
+      value: "Salakm\u0131s\u0131n be \xF6n\xFCne baksana senin y\xFCz\xFCnden t\xFCm
+        kitaplar\u0131m d\xFC\u015Ft\xFC."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[3].Dialogue
+      value: "(Ne yapaca\u011F\u0131n\u0131 bilemez ve utand\u0131\u011F\u0131dan
+        dolay\u0131 susar ve hi\xE7 bir \u015Fey diyemez)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[4].Dialogue
+      value: "iyimisiniz han\u0131mefendi umar\u0131m bir yerinize bir \u015Fey olmam\u0131\u015Ft\u0131r
+        gelin \xFCst\xFCn\xFCz\xFC \u015Fu kafe de temizleyelim hemde size kahve
+        \u0131smarlayay\u0131m."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[5].Dialogue
+      value: "olur \xE7ok iyi olur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[6].Dialogue
+      value: "(erkekle kitaplar\u0131 toplay\u0131p oradan giderler.)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[7].Dialogue
+      value: "G\xF6rd\xFCnm\xFC senin y\xFCz\xFCnden hem azar i\u015Fittim hem de
+        k\u0131z benden hayat\u0131 boyunca nefret edecek.  Bilerek yapt\u0131n dimi
+        sen o \xE7o\xE7u\u011Fa \xE7al\u0131\u015Fan d\u0131\u015F minnaklardans\u0131n."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6596797105770075675, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[8].Dialogue
+      value: "hay\u0131\u0131\u0131\u0131\u0131r hay\u0131\u0131\u0131\u0131\u0131\u0131r
+        \xF6yle de\u011Fil yanl\u0131\u015F anlad\u0131n."
+      objectReference: {fileID: 0}
     - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: DialogCanvas
       value: 
       objectReference: {fileID: 213534396}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[0].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[1].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[2].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[3].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 929e9bec9a894ce409d4b4e17e669cab, type: 2}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[4].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c9e037fa1d6e5c4b8a6479ab0f88e74, type: 2}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[5].Speaker
+      value: 
+      objectReference: {fileID: 11400000, guid: c4ea5815ae7597a40b616042d0eb72aa, type: 2}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[0].Dialogue
+      value: "Kahraman\u0131m\u0131z b\xF6cek itemini se\xE7er. Ancak b\xF6cek itemini
+        se\xE7mesi onu kurtarmaz \xE7\xFCnk\xFC b\xF6cek iteminden etkilenen rakip
+        erkek \xF6yle \xE7irkin olur ki k\u0131z bundan korkup ka\xE7ar. Kahraman\u0131m\u0131z
+        ba\u015Far\u0131s\u0131z olur. Profes\xF6r kahraman\u0131m\u0131za k\u0131zar."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[1].Dialogue
+      value: "(k\u0131zla \xE7arp\u0131\u015F\u0131r) ) iyimisiniz han\u0131mefendi
+        kusura bakmay\u0131n benim sakarl\u0131\u011F\u0131m gelin size yard\u0131m
+        edim(kitaplar\u0131 toplarken fl\xF6tle\u015Firler tam o anda b\xF6cek \u0131s\u0131r\u0131r
+        ve surat\u0131 bir anda yaralanmaya ve sivilcelenmeye ba\u015Flar. k\u0131z
+        bunu g\xF6r\xFCnce korkar ve \xE7\u0131\u011Fl\u0131k atar) ah\u011F\u011F\u011F\u011F\u011F!!!
+        canavaaaaaaar! (diyerek oradan ko\u015Farak uzakla\u015F\u0131r)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[2].Dialogue
+      value: "Ne yapt\u0131n seni manyak k\u0131z\u0131 ne kadar korkuttu\u011Funun
+        fark\u0131ndam\u0131s\u0131n birdaha asla bir erkek ile konu\u015Faca\u011F\u0131n\u0131
+        sanm\u0131yorum."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[3].Dialogue
+      value: "iyi a\xE7\u0131dan bak en az\u0131ndan ba\u015Fka bir erkek ile sevgili
+        olmayacak."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[4].Dialogue
+      value: "piskopat deli seni gel buraya \xF6ld\xFCr\xFCcem seni"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7850311869233579988, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
+      propertyPath: DialoguSegments.Array.data[5].Dialogue
+      value: "(karakterimiz ka\xE7ar)"
+      objectReference: {fileID: 0}
     - target: {fileID: 8279140494102754780, guid: 04ccb2ef726b81042a8804d117a18c3e, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
