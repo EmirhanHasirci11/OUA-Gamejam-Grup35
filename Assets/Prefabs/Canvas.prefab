@@ -327,6 +327,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialoguSegments: []
+  isWinCondition: 0
+  isRestartCondition: 0
   SpeakerFaceDisplay: {fileID: 4796838226919422837}
   DialogueBoxBorder: {fileID: 4913798474909321033}
   DialogueBoxInner: {fileID: 6486553612073852106}
@@ -334,6 +336,7 @@ MonoBehaviour:
   SpeakerNameDisplay: {fileID: 832776124319440551}
   DialogueDisplay: {fileID: 6202711219411192842}
   TextSpeed: 25
+  Dark: {fileID: 0}
 --- !u!1 &5297597008124250715
 GameObject:
   m_ObjectHideFlags: 0
