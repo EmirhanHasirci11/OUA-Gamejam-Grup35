@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 public class DialoguBox : MonoBehaviour
 {
     public DialoguSegment[] DialoguSegments;
+    public GameObject itemCanvas;
     public bool isWinCondition = false;
     public bool isRestartCondition=false;
     [Space]
@@ -28,6 +29,7 @@ public class DialoguBox : MonoBehaviour
         
         DialogueIndex = 0;
         gameObject.SetActive(true);
+        itemCanvas.SetActive(false);
         SetStyle(DialoguSegments[0].Speaker);
         PlayDialogue(DialoguSegments[0].Dialogue);
         
@@ -50,6 +52,7 @@ public class DialoguBox : MonoBehaviour
             {
 
                 gameObject.SetActive(false);
+                itemCanvas.SetActive(true);
                 if (isWinCondition)
                     SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
                 if (isRestartCondition)
