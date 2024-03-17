@@ -43,7 +43,7 @@ public class MainMenu : MonoBehaviour
     }       
     private YieldInstruction Instruction = new YieldInstruction();
     public IEnumerator FadeOut(Image image, float time)
-    {//general fade out effect for images
+    {
         float elapsedTime = 0.0f;
         Color c = image.color;
         while (elapsedTime < time)
@@ -56,7 +56,7 @@ public class MainMenu : MonoBehaviour
     }
 
     public IEnumerator FadeIn(Image image, float time)
-    {//general fade in effect for images
+    {
         float elapsedTime = 0.0f;
         Color c = image.color;
         while (elapsedTime < time)

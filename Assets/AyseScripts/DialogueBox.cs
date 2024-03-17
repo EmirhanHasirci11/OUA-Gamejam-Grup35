@@ -22,7 +22,7 @@ public class DialoguBox : MonoBehaviour
     public float TextSpeed;
     private bool CanContinue;
     private int DialogueIndex;
-
+    
     public void StartDialogue()
     {
         
@@ -35,10 +35,10 @@ public class DialoguBox : MonoBehaviour
     private void Start()
     {
         isWinCondition = false;
-        isRestartCondition = false;
+        isRestartCondition = false;        
         StartDialogue();
     }
-
+    
     private void Update()
     {
 
